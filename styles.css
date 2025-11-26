@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+body{
+	background-color:lightgray;
+	margin:10px;
+	pad:10px;
+	text-align:center
+}
+h1{
+	color:crimson;
+}
+a{
+	text-decoration:none;
+	color:blue
+}
